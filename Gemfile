@@ -83,7 +83,7 @@ gem 'devise'
 gem 'font-awesome-sass'
 gem 'sprockets'
 gem 'jquery-rails'
-gem 'kaminari'
+gem 'kaminari','~> 1.2.1'
 
 # for image uploader with AWS S3
 gem 'carrierwave'
